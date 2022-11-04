@@ -10,5 +10,5 @@ Original file is located at
 #Use this code for the git-demo
 #write your name
 
-name = "Pratik Relekar"
+name = "Suhas OG"
 name = "Pranav G"
